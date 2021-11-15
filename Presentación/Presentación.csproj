@@ -112,6 +112,12 @@
     <Compile Include="FrmSession.Designer.cs">
       <DependentUpon>FrmSession.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmViewPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmViewPatient.Designer.cs">
+      <DependentUpon>FrmViewPatient.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmViewSession.cs">
       <SubType>Form</SubType>
     </Compile>
